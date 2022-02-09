@@ -11,7 +11,7 @@
 是一个非常不错的django学习项目，同时也记录在替换框架中遇到的坑，所遇到的django1.x和2.x的区别，希望对各位的学习有所帮助。
 
 关键词：django2 celery fdfs haystack whoosh redis nginx 高并发 分布式
-**[搭建过程猛戳这里](https://www.bilibili.com/video/BV1Xy4y1j71b/)**
+****
 
 ## 主要技术栈
 ```text
